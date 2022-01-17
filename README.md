@@ -16,7 +16,7 @@ My focus area for the past year has been back-end development with PHP & NODEJS.
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on a cool Script, Bulk upload file automation  😉
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: elgabouri.saad@gmail.com
 - ⚡ Fun fact: I am also a <a href="https://tryhackme.com/p/wetas" target="_blank">CTF hobbyist</a>
 - 🚀 Check out my <a href="https://github.com/wetas2020/book-recommendations" target="_blank">latest project</a>
